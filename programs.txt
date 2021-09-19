@@ -1,0 +1,6 @@
+gimp
+node js
+git
+vscode
+python
+chocolatey
